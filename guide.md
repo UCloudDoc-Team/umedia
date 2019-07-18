@@ -28,7 +28,7 @@ UMedia产品控制台需联系客户经理或技术支持申请开通。
 4）水印模版：可根据您的需求进行组合。水印模版需现在全局设置中进行添加。
 
 转码任务输出文件命名规则：
-原视频文件名+转码模版中的“输出文件后缀”字段,例如ucloud.mp4-->ucloudhouzhui.flv
+原视频文件名+转码模版中的“输出文件后缀”字段,例如ucloud.mp4 ->ucloudhouzhui.flv
 
 ### 创建截图任务
 
@@ -53,9 +53,9 @@ GIF截图是指提交的一条或多条URL以指定的图片采集间隔进行�
 5）回调URL：根据需求选填，可为空。回调功能详情请参考[回调说明](https://docs.ucloud.cn/video/umedia/callback)。
 
 截图任务输出文件命名规则
-时间点截图：保留原视频文件名，例如：ucloud.mp4-->ucloud.jpg
-时间间隔截图：原视频文件名+截图序号，例如：ucloud.mp4-->ucloud_1.jpg、ucloud_2.jpg
-Gif截图：保留原视频文件名，例如：ucloud.mp4-->ucloud.gif
+时间点截图：保留原视频文件名，例如：ucloud.mp4 ->ucloud.jpg
+时间间隔截图：原视频文件名+截图序号，例如：ucloud.mp4 ->ucloud_1.jpg、ucloud_2.jpg
+Gif截图：保留原视频文件名，例如：ucloud.mp4 ->ucloud.gif
 
 ### 创建切片任务
 
@@ -71,7 +71,7 @@ Gif截图：保留原视频文件名，例如：ucloud.mp4-->ucloud.gif
 
 3）回调URL：根据需求选填，可为空。回调功能详情请参考[回调说明](https://docs.ucloud.cn/video/umedia/callback)。
 
-切片任务输出文件命名规则：保留原视频文件名，例如：ucloud.mp4-->ucloud.m3u8
+切片任务输出文件命名规则：保留原视频文件名，例如：ucloud.mp4 ->ucloud.m3u8
 
 ### 任务详情查看
 
@@ -97,7 +97,7 @@ Gif截图：保留原视频文件名，例如：ucloud.mp4-->ucloud.gif
 
 2）编码格式：mp4格式支持H.264/H.265，其余格式只支持H.264
 
-3）输出文件后缀：在输出的视频文件名后添加相应后缀，例：ucloud.mp4 -\>ulcoudhouzhui.mp4
+3）输出文件后缀：在输出的视频文件名后添加相应后缀，例：ucloud.mp4 ->ulcoudhouzhui.mp4
 
 4）回调URL：根据需求选填，可为空。回调功能详情请参考[回调说明](https://docs.ucloud.cn/video/umedia/callback)。
 
