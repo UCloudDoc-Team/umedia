@@ -12,7 +12,7 @@
 
 预处理策略创建完成后，用户可以通过[UFile上传策略](https://docs.ucloud.cn/storage_cdn/ufile/putpolicy)回调UMedia的预处理接口，传入预处理策略的名称以及当前文件名，来实现预处理功能。
 
-UMedia预处理接口地址为：<http:%%//%%inner.umedia.ucloud.com.cn/CreateUmediaTask>
+UMedia预处理接口地址为：<http://inner.umedia.ucloud.com.cn/CreateUmediaTask>
 
 ## 用例参考
 
