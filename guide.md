@@ -50,7 +50,7 @@ GIF截图是指提交的一条或多条URL以指定的图片采集间隔进行�
 
 4）图片类型：时间点截图/间隔截图支持jpg和png。gif截图类型图片默认为gif格式。
 
-5）回调URL：根据需求选填，可为空。回调功能详情请参考[回调说明](https://docs.ucloud.cn/video/umedia/callback)。
+5）回调URL：根据需求选填，可为空。回调功能详情请参考[回调说明](https://docs.ucloud.cn/umedia/callback)。
 
 截图任务输出文件命名规则
 时间点截图：保留原视频文件名，例如：ucloud.mp4 ->ucloud.jpg
@@ -69,7 +69,7 @@ Gif截图：保留原视频文件名，例如：ucloud.mp4 ->ucloud.gif
 
 2）存放地址：指切片后生成的m3u8视频文件的存放地址，当前支持ufile存储空间上传，可支持自定义文件上传路径。若路径为空，则保留源文件URL的路径进行上传。
 
-3）回调URL：根据需求选填，可为空。回调功能详情请参考[回调说明](https://docs.ucloud.cn/video/umedia/callback)。
+3）回调URL：根据需求选填，可为空。回调功能详情请参考[回调说明](https://docs.ucloud.cn/umedia/callback)。
 
 切片任务输出文件命名规则：保留原视频文件名，例如：ucloud.mp4 ->ucloud.m3u8
 
@@ -99,7 +99,7 @@ Gif截图：保留原视频文件名，例如：ucloud.mp4 ->ucloud.gif
 
 3）输出文件后缀：在输出的视频文件名后添加相应后缀，例：ucloud.mp4 ->ulcoudhouzhui.mp4
 
-4）回调URL：根据需求选填，可为空。回调功能详情请参考[回调说明](https://docs.ucloud.cn/video/umedia/callback)。
+4）回调URL：根据需求选填，可为空。回调功能详情请参考[回调说明](https://docs.ucloud.cn/umedia/callback)。
 
 5）视频参数：视频码率由用户指定，可选择自适应，系统会默认为您计算出最合适的码率。视频分辨率由用户根据需求填写，支持范围为长(160～1920)
 x 宽(80～1080)。
