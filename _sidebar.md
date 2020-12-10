@@ -1,4 +1,3 @@
-<div class="sidebar_title icon__umedia"> 媒体工厂 UMedia</div>
 
 * [概览](/umedia/README)
 * [产品简介](/umedia/intro)
